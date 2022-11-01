@@ -158,9 +158,23 @@
         ],
         "certainty": "unsure",
         "type": "main",
-        "owner": null,
+        "alts": [
+            "6c5846dd-bc6f-41de-ba40-1669032d42a4"
+        ],
         "flags": [
             "chat-spammer"
         ]
+    },
+    "6c5846dd-bc6f-41de-ba40-1669032d42a4": {
+        "lastKnownName": "CatgirlLizzy",
+        "nameHistory": [
+            "am3r1k4n3r",
+            "CatGirlLizzy",
+            "CatgirlLizzy"
+        ],
+        "certainty": "unsure",
+        "type": "alt",
+        "owner": "4dcb5edc-ca48-449d-839e-36a86447bb35",
+        "flags": []
     }
 }
