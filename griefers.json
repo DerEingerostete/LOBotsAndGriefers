@@ -146,5 +146,21 @@
         "flags": [
             "griefer"
         ]
+    },
+    "4dcb5edc-ca48-449d-839e-36a86447bb35": {
+        "lastKnownName": "CatgirlJenni",
+        "nameHistory": [
+            "Droon7",
+            "_FarmerBot",
+            "_FarmerAlt",
+            "FarmerJennifer",
+            "CatgirlJenni"
+        ],
+        "certainty": "unsure",
+        "type": "main",
+        "owner": null,
+        "flags": [
+            "chat-spammer"
+        ]
     }
 }
