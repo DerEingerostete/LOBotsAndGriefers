@@ -156,13 +156,13 @@
             "FarmerJennifer",
             "CatgirlJenni"
         ],
-        "certainty": "unsure",
         "type": "main",
         "alts": [
             "6c5846dd-bc6f-41de-ba40-1669032d42a4"
         ],
         "flags": [
-            "chat-spammer"
+            "chat-spammer",
+            "griefer"
         ]
     },
     "6c5846dd-bc6f-41de-ba40-1669032d42a4": {
