@@ -185,6 +185,8 @@
         "certainty": "unsure",
         "type": "alt",
         "owner": "4dcb5edc-ca48-449d-839e-36a86447bb35",
-        "flags": []
+        "flags": [
+            "chat-spammer"
+        ]
     }
 }
